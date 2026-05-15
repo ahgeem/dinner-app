@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const categories = ["전체", "🇰🇷 한식", "🇯🇵 일식", "🌍 양식"];
 
-const FONT = "'Helvetica Neue', Helvetica, Arial, 'Apple SD Gothic Neo', sans-serif";
+const FONT = "'Escoredream', 'Apple SD Gothic Neo', sans-serif";
 
 const channelColors = {
   "김밀란": "#1B4332", "정육왕": "#7B2D00",
